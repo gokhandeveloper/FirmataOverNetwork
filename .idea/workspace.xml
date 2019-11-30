@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09ceff15-6393-4ae3-8d3c-72d464b5a49e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arduino.ino" beforeDir="false" afterPath="$PROJECT_DIR$/arduino.ino" afterDir="false" />
-    </list>
+    <list default="true" id="09ceff15-6393-4ae3-8d3c-72d464b5a49e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575074998066</updated>
-      <workItem from="1575074999623" duration="2224000" />
+      <workItem from="1575074999623" duration="2463000" />
     </task>
     <servers />
   </component>
