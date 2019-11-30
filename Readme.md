@@ -1,7 +1,10 @@
-I have specifically only enabled Stepper motor and basic digital input/output Firmata features to save memory to be used with the LinearDriveSystemController.
+This is generated using FirmataBuilder:
+http://firmatabuilder.com/
 
-If you need extra features like analog input/output, you can enable it for your needs.
+I have enabled Stepper motor Firmata feature to be used with the LinearDriveSystemController.
+
 In this project, I used Arduino Yun which is now retired.
-You can use a better unit like: 
+You can use a better units like: 
 https://www.arduino.cc/en/Guide/ArduinoUnoWiFiRev2#toc4
+https://store.arduino.cc/usa/arduino-ethernet-rev3-without-poe
 I would avoid using eth or wifi shields for reliability issues.
